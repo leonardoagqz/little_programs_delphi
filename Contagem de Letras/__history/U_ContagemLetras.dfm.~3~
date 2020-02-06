@@ -1,0 +1,30 @@
+object F_ContagemLetras: TF_ContagemLetras
+  Left = 0
+  Top = 0
+  Caption = 'Software para Contagem de Letras'
+  ClientHeight = 347
+  ClientWidth = 530
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pn_resultados: TPanel
+    Left = 41
+    Top = 69
+    Width = 449
+    Height = 257
+    TabOrder = 0
+  end
+  object edt_Frase: TEdit
+    Left = 64
+    Top = 24
+    Width = 401
+    Height = 21
+    TabOrder = 1
+  end
+end

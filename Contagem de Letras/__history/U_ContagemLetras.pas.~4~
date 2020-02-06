@@ -1,0 +1,36 @@
+unit U_ContagemLetras;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls;
+
+type
+  TF_ContagemLetras = class(TForm)
+    pn_resultados: TPanel;
+    edt_Frase: TEdit;
+    lbl_esta_frase_tem: TLabel;
+    lbl_Letras: TLabel;
+    lbl_EspacoEmBranco: TLabel;
+    lbl_Vogais: TLabel;
+    lbl_Consoantes: TLabel;
+    lbl_OutrosCaracteres: TLabel;
+    lbl_TotalCaractFrase: TLabel;
+    Label8: TLabel;
+    Label9: TLabel;
+    Label10: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  F_ContagemLetras: TF_ContagemLetras;
+
+implementation
+
+{$R *.dfm}
+
+end.
