@@ -1,9 +1,10 @@
 object F_ContagemLetras: TF_ContagemLetras
   Left = 0
   Top = 0
+  BorderStyle = bsDialog
   Caption = 'Software para Contagem de Letras'
-  ClientHeight = 347
-  ClientWidth = 530
+  ClientHeight = 357
+  ClientWidth = 532
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText

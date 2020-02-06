@@ -1,0 +1,197 @@
+object F_ContagemLetras: TF_ContagemLetras
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = 'Software para Contagem de Letras'
+  ClientHeight = 357
+  ClientWidth = 540
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pn_resultados: TPanel
+    Left = 41
+    Top = 69
+    Width = 449
+    Height = 257
+    TabOrder = 0
+    object lbl_esta_frase_tem: TLabel
+      Left = 15
+      Top = 24
+      Width = 111
+      Height = 19
+      Caption = 'Esta frase tem: '
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_Letras: TLabel
+      Left = 15
+      Top = 57
+      Width = 337
+      Height = 19
+      Caption = 
+        'Letras .........................................................' +
+        '.'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_EspacoEmBranco: TLabel
+      Left = 15
+      Top = 82
+      Width = 336
+      Height = 19
+      Caption = 'Espa'#231'os em Branco .......................................'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_Vogais: TLabel
+      Left = 15
+      Top = 107
+      Width = 337
+      Height = 19
+      Caption = 'Vogais .........................................................'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_Consoantes: TLabel
+      Left = 15
+      Top = 132
+      Width = 336
+      Height = 19
+      Caption = 'Consoantes ..................................................'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_OutrosCaracteres: TLabel
+      Left = 15
+      Top = 157
+      Width = 336
+      Height = 19
+      Caption = 'Outros Caracteres .........................................'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_TotalCaractFrase: TLabel
+      Left = 15
+      Top = 182
+      Width = 335
+      Height = 19
+      Caption = 'Total de Caracteres na Frese ..........................'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_ResLetras: TLabel
+      Left = 357
+      Top = 57
+      Width = 5
+      Height = 19
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_ResEspacosBranco: TLabel
+      Left = 357
+      Top = 82
+      Width = 5
+      Height = 19
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_ResVogais: TLabel
+      Left = 358
+      Top = 107
+      Width = 5
+      Height = 19
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_ResConsoantes: TLabel
+      Left = 357
+      Top = 132
+      Width = 5
+      Height = 19
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_ResOutrosCaract: TLabel
+      Left = 357
+      Top = 157
+      Width = 5
+      Height = 19
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object lbl_ResTotalCaractFrase: TLabel
+      Left = 357
+      Top = 182
+      Width = 5
+      Height = 19
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+  end
+  object edt_Frase: TEdit
+    Left = 64
+    Top = 24
+    Width = 401
+    Height = 21
+    TabOrder = 1
+    OnChange = edt_FraseChange
+  end
+end
