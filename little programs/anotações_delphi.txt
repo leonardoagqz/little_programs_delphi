@@ -1,0 +1,16 @@
+P_Dados_Pessoa.IMC := CalcularIMC (P_Dados_Pessoa.Peso, P_Dados_Pessoa.Altura, p_Dados_Pessoa.Sexo);
+
+ FormatFloat('#,0.00',l_IMC) ;
+
+Label5.Caption := ('IMC: ' + (P_Dados_Pessoa.IMC));
+
+if (p_Altura <> 0) then
+begin
+       if (p_Altura < 3) then
+          l_IMC := p_Peso/(p_Altura*p_Altura)
+        else
+           if (p_Altura >= 100) then
+          l_IMC := p_Peso/((p_Altura/100)*(p_Altura/100));
+             end;
+
+teste

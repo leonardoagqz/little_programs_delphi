@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/08 19:53:32.000.564,=C:\Users\toor\Documents\RAD Studio\Projects\Project1\MainModule.pas</Transaction>
+    <Transaction>2018/11/08 19:53:32.000.181,=C:\Users\toor\Documents\RAD Studio\Projects\Project1\ServerModule.pas</Transaction>
+    <Transaction>2018/11/08 19:53:38.000.737,=C:\Users\toor\Documents\RAD Studio\Projects\Project1\Main.pas</Transaction>
+    <Transaction>2018/11/08 22:10:31.000.872,C:\Users\toor\Documents\RAD Studio\Projects\Project1\uniguitestegrafico.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Project1\Project1.dproj</Transaction>
+    <Transaction>2018/11/08 22:27:22.000.767,=C:\Users\toor\Documents\RAD Studio\Projects\Project1\Unit1.pas</Transaction>
+    <Transaction>2018/11/09 06:12:27.000.985,C:\Users\toor\Documents\RAD Studio\Projects\Project1\U_guigraficos.pas=C:\Users\toor\Documents\RAD Studio\Projects\Project1\Unit1.pas</Transaction>
+    <Transaction>2018/11/09 06:12:27.000.985,C:\Users\toor\Documents\RAD Studio\Projects\Project1\U_guigraficos.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Project1\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

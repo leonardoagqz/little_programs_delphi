@@ -1,0 +1,48 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{0DE03E7B-1D5D-46F3-84C8-68A598E68E8A}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="Trabalhando_com_Eventos_no_Delphi_220718.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Treinando_Delphi.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="Trabalhando_com_Eventos_no_Delphi_220718">
+			<MSBuild Projects="Trabalhando_com_Eventos_no_Delphi_220718.dproj"/>
+		</Target>
+		<Target Name="Trabalhando_com_Eventos_no_Delphi_220718:Clean">
+			<MSBuild Targets="Clean" Projects="Trabalhando_com_Eventos_no_Delphi_220718.dproj"/>
+		</Target>
+		<Target Name="Trabalhando_com_Eventos_no_Delphi_220718:Make">
+			<MSBuild Targets="Make" Projects="Trabalhando_com_Eventos_no_Delphi_220718.dproj"/>
+		</Target>
+		<Target Name="Treinando_Delphi">
+			<MSBuild Projects="Treinando_Delphi.dproj"/>
+		</Target>
+		<Target Name="Treinando_Delphi:Clean">
+			<MSBuild Targets="Clean" Projects="Treinando_Delphi.dproj"/>
+		</Target>
+		<Target Name="Treinando_Delphi:Make">
+			<MSBuild Targets="Make" Projects="Treinando_Delphi.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="Trabalhando_com_Eventos_no_Delphi_220718;Treinando_Delphi"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="Trabalhando_com_Eventos_no_Delphi_220718:Clean;Treinando_Delphi:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="Trabalhando_com_Eventos_no_Delphi_220718:Make;Treinando_Delphi:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

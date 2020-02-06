@@ -1,0 +1,193 @@
+uniguitestegrafico.exe: 000012B8: 17:04:20 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 000012B8: 17:04:20 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 000012B8: 17:04:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 000012B8: 17:04:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 0000105C: 17:04:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 000012B8: 17:05:08 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 000012B8: 17:05:08 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 000012B8: 17:05:08 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 000013D0: 17:07:07 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 000013D0: 17:07:07 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 000013D0: 17:07:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 000013D0: 17:07:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 00000860: 17:07:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 000013D0: 17:07:18 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 000013D0: 17:07:18 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 000013D0: 17:07:19 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 000013D0: 17:07:19 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 000013D0: 17:07:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 000013D0: 17:07:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 000013D0: 17:07:19 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 000013D0: 17:07:19 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 000013D0: 17:07:19 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 000013D0: 17:07:19 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 000013D0: 17:07:19 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 000013B8: 17:07:55 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 000013B8: 17:07:55 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 000013B8: 17:07:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 000013B8: 17:07:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 0000149C: 17:08:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 000013B8: 17:08:22 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 000013B8: 17:08:22 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 000013B8: 17:08:22 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 0000141C: 17:09:33 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 0000141C: 17:09:33 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 0000141C: 17:09:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 0000141C: 17:09:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 000012B4: 17:09:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 0000141C: 17:09:51 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 0000141C: 17:09:51 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 0000141C: 17:09:52 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 0000141C: 17:09:52 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 0000141C: 17:09:52 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 0000141C: 17:09:52 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 0000141C: 17:09:52 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 0000141C: 17:09:52 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 0000141C: 17:09:52 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 0000141C: 17:09:52 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 0000141C: 17:09:52 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 00000D3C: 17:11:31 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00000D3C: 17:11:31 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00000D3C: 17:11:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00000D3C: 17:11:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 00000F7C: 17:11:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 00000D3C: 17:11:49 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 00000D3C: 17:11:49 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 00000D3C: 17:11:50 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 00000D3C: 17:11:50 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 00000188: 17:12:58 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00000188: 17:12:58 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00000188: 17:12:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00000188: 17:12:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 000013B8: 17:13:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 00000188: 17:13:40 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 00000188: 17:13:40 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 00000188: 17:13:41 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 00000188: 17:13:41 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 00000188: 17:13:41 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 00000188: 17:13:41 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 00000188: 17:13:41 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 00000188: 17:13:41 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 00000188: 17:13:41 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 00000188: 17:13:41 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 00000188: 17:13:41 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 00000D6C: 17:15:00 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00000D6C: 17:15:00 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00000D6C: 17:15:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00000D6C: 17:15:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 0000112C: 17:15:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 00000D6C: 17:17:25 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 00000D6C: 17:17:25 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 000017E0: 17:18:27 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 000017E0: 17:18:27 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 000017E0: 17:18:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 000017E0: 17:18:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 00000CBC: 17:18:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 000017E0: 17:21:36 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 000017E0: 17:21:36 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 000017E0: 17:21:37 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 000017E0: 17:21:37 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 000017E0: 17:21:37 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 000017E0: 17:21:37 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 000017E0: 17:21:37 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 000017E0: 17:21:37 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 000017E0: 17:21:37 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 000017E0: 17:21:37 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 000017E0: 17:21:37 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 000016AC: 17:22:15 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 000016AC: 17:22:15 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 000016AC: 17:22:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 000016AC: 17:22:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 000015B4: 17:22:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 000016AC: 17:22:48 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 000016AC: 17:22:48 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 000016AC: 17:22:48 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 00000FA0: 17:23:54 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00000FA0: 17:23:54 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00000FA0: 17:23:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00000FA0: 17:23:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 000011BC: 17:23:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 00000FA0: 17:24:23 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 00000FA0: 17:24:23 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 00000FA0: 17:24:24 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 00000FA0: 17:24:24 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 00001710: 17:24:48 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00001710: 17:24:48 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00001710: 17:24:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00001710: 17:24:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 00001654: 17:24:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 00001710: 17:30:06 [TUniServerModule]:Shutting Down Server.
+uniguitestegrafico.exe: 00001710: 17:30:06 [TUniServerModule]:Stopping HTTP Server.
+uniguitestegrafico.exe: 00001710: 17:30:07 [TUniServerModule]:HTTP Server Stopped.
+uniguitestegrafico.exe: 00001710: 17:30:07 [TUniGUISessionManager]:Terminating Session manager.
+uniguitestegrafico.exe: 00001710: 17:30:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+uniguitestegrafico.exe: 00001710: 17:30:07 [TUniGUISessionManager]:Cache Eraser Stopped.
+uniguitestegrafico.exe: 00001710: 17:30:07 [TUniGUISessionManager]:Destroying Worker Threads.
+uniguitestegrafico.exe: 00001710: 17:30:07 [TUniGUISessionManager]:Session manager terminated.
+uniguitestegrafico.exe: 00001710: 17:30:07 [TUniServerModule]:Server Shutdown Completed.
+uniguitestegrafico.exe: 00001710: 17:30:07 []:<-------------------------------------------------------------->
+uniguitestegrafico.exe: 00001710: 17:30:07 [Terminated]:Exit Code: 0
+uniguitestegrafico.exe: 00000E1C: 17:30:33 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00000E1C: 17:30:33 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00000E1C: 17:30:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00000E1C: 17:30:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 00001618: 17:30:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90
+uniguitestegrafico.exe: 00000390: 20:57:24 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00000390: 20:57:24 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00000390: 20:57:25 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+uniguitestegrafico.exe: 00000390: 20:57:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00000390: 20:57:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+uniguitestegrafico.exe: 00001254: 20:57:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\toor\Documents\RAD Studio\Projects\Project1\Win32\Debug\cache\uniguitestegrafico_exe\JDYcVUVGZN102C59EBD\favicon.ico
+uniguitestegrafico.exe: 00001114: 20:57:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\toor\Documents\RAD Studio\Projects\Project1\Win32\Debug\cache\uniguitestegrafico_exe\JDYcVUVGZN102C59EBD\favicon.ico
+uniguitestegrafico.exe: 00000704: 20:57:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\toor\Documents\RAD Studio\Projects\Project1\Win32\Debug\cache\uniguitestegrafico_exe\JDYcVUVGZN102C59EBD\favicon.ico
+uniguitestegrafico.exe: 00001394: 20:57:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\toor\Documents\RAD Studio\Projects\Project1\Win32\Debug\cache\uniguitestegrafico_exe\JDYcVUVGZN102C59EBD\favicon.ico
+uniguitestegrafico.exe: 00000990: 20:57:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\toor\Documents\RAD Studio\Projects\Project1\Win32\Debug\cache\uniguitestegrafico_exe\JDYcVUVGZN102C59EBD\favicon.ico
+uniguitestegrafico.exe: 000011E4: 20:57:49 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\toor\Documents\RAD Studio\Projects\Project1\Win32\Debug\cache\uniguitestegrafico_exe\JDYcVUVGZN102C59EBD\favicon.ico
+uniguitestegrafico.exe: 00001338: 21:03:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00747C90

@@ -1,0 +1,37 @@
+object FrmDM: TFrmDM
+  Left = 0
+  Top = 0
+  Caption = 'FrmDM'
+  ClientHeight = 201
+  ClientWidth = 331
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=mysql_d'
+      'User_Name=root'
+      'Password=root'
+      'Server=localhost'
+      'DriverID=MySQL')
+    Left = 40
+    Top = 40
+  end
+  object FDQuery1: TFDQuery
+    Connection = FDConnection1
+    Left = 120
+    Top = 48
+  end
+  object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
+    DriverID = 'mysql_d'
+    VendorLib = 'C:\Users\toor\Documents\RAD Studio\Projects\libmysql.dll'
+    Left = 160
+    Top = 120
+  end
+end

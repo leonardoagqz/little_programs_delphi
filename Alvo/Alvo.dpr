@@ -26,47 +26,46 @@ begin
   diametroMenor := diametroAtual/6;
 
   diametro6:= diametroAtual;
-  circ6 :=  diametro6 * Pi*2;
+  circ6 :=  diametro6 * Pi;
 
   diametro5:= diametro6-diametroMenor;
-  circ5 :=  diametro5 * Pi*2;
+  circ5 :=  diametro5 * Pi;
 
 
   diametro4:= diametro5-diametroMenor;
-  circ4 :=  diametro4 * Pi*2;
+  circ4 :=  diametro4 * Pi;
 
 
   diametro3:= diametro4-diametroMenor;
-  circ3 :=  diametro3 * Pi*2;
+  circ3 :=  diametro3 * Pi;
 
 
   diametro2:= diametro3-diametroMenor;
-  circ2 :=  diametro2 * Pi*2;
+  circ2 :=  diametro2 * Pi;
 
 
   diametro1:= diametro2-diametroMenor;
-  circ1 :=  diametro1 * Pi*2;
+  circ1 :=  diametro1 * Pi;
 
 
   circTotal :=(circ6+circ5+circ4+circ3+circ2+circ1);
   Alvo1 := circTotal;
   AlvoTotal := circTotal * 5000;
 
+ Writeln('Papelão necessário para um alvo: ', Alvo1:4:2 , ' cm2');
+ Writeln('Papelão necessário para 5000 alvoa: ', AlvoTotal:4:2 , ' cm2');
+  Writeln('');
+  Writeln('Informações Adicionais');
   Writeln('Raio Maior: ',RaioMaior:4:2);
-   Writeln('Raio Menor: ',RaioMenor:4:2);
-   Writeln('Diametro Maior: ',diametroMaior:4:2);
-   Writeln('Diametro Menor: ',diametroMenor:4:2);
-   Writeln('Circ 6: ',circ6:4:2);
-    Writeln('Circ 5: ',circ5:4:2);
-     Writeln('Circ 4: ',circ4:4:2);
-      Writeln('Circ 3: ',circ3:4:2);
-       Writeln('Circ 2: ',circ2:4:2);
-        Writeln('Circ 1: ',circ1:4:2);
-
-
-   Writeln('Papelão necessário para um alvo: ', Alvo1:4:2 , ' cm2');
-   Writeln('Papelão necessário para 5000 alvoa: ', AlvoTotal:4:2 , ' cm2');
-
+  Writeln('Raio Menor: ',RaioMenor:4:2);
+  Writeln('Diametro Maior: ',diametroMaior:4:2);
+  Writeln('Diametro Menor: ',diametroMenor:4:2);
+  Writeln('Circ 6: ',circ6:4:2 , ' cm');
+  Writeln('Circ 5: ',circ5:4:2 , ' cm');
+  Writeln('Circ 4: ',circ4:4:2 , ' cm');
+  Writeln('Circ 3: ',circ3:4:2 , ' cm');
+  Writeln('Circ 2: ',circ2:4:2 , ' cm');
+  Writeln('Circ 1: ',circ1:4:2 , ' cm');
 
 
   Readln;

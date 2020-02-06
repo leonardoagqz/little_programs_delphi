@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/15 09:22:18.212.pas,C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.pas</Transaction>
+    <Transaction>2018/07/15 09:22:18.212.dfm,C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2018/07/15 09:22:52.933.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\Calculadora_Delphi.dproj</Transaction>
+    <Transaction>2018/07/15 09:44:58.025.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\Calculadora_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Trabalhando_com_Eventos_no_Delphi.dproj</Transaction>
+    <Transaction>2018/07/15 09:45:18.860.pas,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.pas=C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.pas</Transaction>
+    <Transaction>2018/07/15 09:45:18.860.dfm,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.dfm=C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2018/07/17 16:46:23.324.pas,C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\toor\Documents\RAD Studio\Projects\UFrmDataHora.pas</Transaction>
+    <Transaction>2018/07/17 16:46:23.324.dfm,C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\toor\Documents\RAD Studio\Projects\UFrmDataHora.dfm</Transaction>
+    <Transaction>2018/07/22 08:32:14.543.pas,C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\toor\Documents\RAD Studio\Projects\uFrmMenu1.pas</Transaction>
+    <Transaction>2018/07/22 08:32:14.543.dfm,C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\toor\Documents\RAD Studio\Projects\uFrmMenu1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

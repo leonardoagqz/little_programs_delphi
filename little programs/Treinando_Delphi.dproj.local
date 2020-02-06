@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/15 09:22:18.212.dfm,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/07/15 09:22:18.212.pas,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.pas=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/15 09:22:52.933.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\Calculadora_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/07/15 09:44:58.025.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Trabalhando_com_Eventos_no_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\Calculadora_Delphi.dproj</Transaction>
+    <Transaction>2018/07/15 09:45:18.860.dfm,C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2018/07/15 09:45:18.860.pas,C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.pas=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora\uFrmPrincipal.pas</Transaction>
+    <Transaction>2018/07/17 16:46:23.324.pas,C:\Users\toor\Documents\RAD Studio\Projects\UFrmDataHora.pas=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/17 16:46:23.324.dfm,C:\Users\toor\Documents\RAD Studio\Projects\UFrmDataHora.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/07/22 08:32:14.543.dfm,C:\Users\toor\Documents\RAD Studio\Projects\uFrmMenu1.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/07/22 08:32:14.543.pas,C:\Users\toor\Documents\RAD Studio\Projects\uFrmMenu1.pas=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/22 16:42:28.150.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Trabalhando_com_Eventos_no_Delphi_220718.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Trabalhando_com_Eventos_no_Delphi.dproj</Transaction>
+    <Transaction>2018/07/25 14:52:11.698.pas,C:\Users\toor\Documents\RAD Studio\Projects\UnitCalculadora.pas=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/25 14:52:11.698.dfm,C:\Users\toor\Documents\RAD Studio\Projects\UnitCalculadora.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/07/25 14:52:53.394.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Trabalhando_com_Eventos_no_Delphi_220718.dproj</Transaction>
+    <Transaction>2018/07/25 16:25:20.009.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Calculadora_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora_Delphi.dproj</Transaction>
+    <Transaction>2018/08/04 14:25:28.709.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Treinando_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Calculadora_Delphi.dproj</Transaction>
+    <Transaction>2018/08/04 14:26:29.723.dproj,C:\Users\toor\Documents\RAD Studio\Projects\Treinando_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Treinando_Delphi.dproj</Transaction>
+    <Transaction>2018/08/10 01:09:52.000.599,C:\Users\toor\Documents\RAD Studio\Projects\Treinando_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Treinando_Delphi.dproj</Transaction>
+    <Transaction>2018/08/10 01:11:23.000.791,C:\Users\toor\Documents\RAD Studio\Projects\git\uFrmPrincipal.pas=C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.pas</Transaction>
+    <Transaction>2018/08/10 01:11:23.000.791,C:\Users\toor\Documents\RAD Studio\Projects\git\uFrmPrincipal.dfm=C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2018/08/10 01:11:41.000.148,C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.pas=C:\Users\toor\Documents\RAD Studio\Projects\git\uFrmPrincipal.pas</Transaction>
+    <Transaction>2018/08/10 01:11:41.000.148,C:\Users\toor\Documents\RAD Studio\Projects\uFrmPrincipal.dfm=C:\Users\toor\Documents\RAD Studio\Projects\git\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2018/08/10 01:12:53.000.966,C:\Users\toor\Documents\RAD Studio\Projects\Treinando_Delphi.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Treinando_Delphi.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

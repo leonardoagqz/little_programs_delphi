@@ -1,0 +1,42 @@
+unit Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniChart, uniGUIBaseClasses,
+  uniPanel;
+
+type
+  TMainForm = class(TUniForm)
+    UniChart1: TUniChart;
+    UniBarSeries1: TUniBarSeries;
+    UniChart2: TUniChart;
+    UniPie3DSeries1: TUniPie3DSeries;
+    UniChart3: TUniChart;
+    UniPie3DSeries2: TUniPie3DSeries;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication;
+
+function MainForm: TMainForm;
+begin
+  Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
+end;
+
+initialization
+  RegisterAppFormClass(TMainForm);
+
+end.

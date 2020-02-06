@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/20 19:35:49.000.736,=C:\Users\toor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 19:37:00.000.444,C:\Users\toor\Documents\RAD Studio\Projects\uFrmIndiceMassaCorporal.pas=C:\Users\toor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 19:37:00.000.444,C:\Users\toor\Documents\RAD Studio\Projects\uFrmIndiceMassaCorporal.dfm=C:\Users\toor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/08/20 19:37:34.000.876,C:\Users\toor\Documents\RAD Studio\Projects\Indice_de_Massa_Corporal.dproj=C:\Users\toor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/08/20 20:14:45.000.548,=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 20:15:10.000.922,C:\Users\toor\Documents\RAD Studio\Projects\uFrmRequisitos.pas=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 20:15:10.000.922,C:\Users\toor\Documents\RAD Studio\Projects\uFrmRequisitos.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/08/20 20:40:38.000.086,=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 20:41:13.000.686,C:\Users\toor\Documents\RAD Studio\Projects\uFrmResultado.pas=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 20:41:13.000.686,C:\Users\toor\Documents\RAD Studio\Projects\uFrmResultado.dfm=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/08/20 20:51:47.000.337,=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 20:52:29.000.706,C:\Users\toor\Documents\RAD Studio\Projects\uDadosPessoa.pas=C:\Users\toor\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/24 01:35:38.000.082,C:\Users\toor\Documents\RAD Studio\Projects\Indice_de_Massa_Corporal.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Indice_de_Massa_Corporal.dproj</Transaction>
+    <Transaction>2018/08/27 19:00:44.000.635,C:\Users\toor\Documents\RAD Studio\Projects\Indice_de_Massa_Corporal.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Indice_de_Massa_Corporal.dproj</Transaction>
+    <Transaction>2018/08/28 19:35:28.000.880,C:\Users\toor\Documents\RAD Studio\Projects\Indice_de_Massa_Corporal.dproj=C:\Users\toor\Documents\RAD Studio\Projects\Indice_de_Massa_Corporal.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uDadosPessoa.pas"/>
+    <File Path="uFrmIndiceMassaCorporal.pas"/>
+    <File Path="uFrmIndiceMassaCorporal.dfm"/>
+    <File Path="uFrmRequisitos.pas"/>
+    <File Path="uFrmRequisitos.dfm"/>
+    <File Path="uFrmResultado.pas"/>
+    <File Path="uFrmResultado.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

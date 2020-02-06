@@ -1,0 +1,5 @@
+uniguitestegrafico.exe: 00000E84: 19:16:44 []:>--------------------------------------------------------------<
+uniguitestegrafico.exe: 00000E84: 19:16:44 [TUniServerModule]:Server First Init.
+uniguitestegrafico.exe: 00000E84: 19:16:44 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+uniguitestegrafico.exe: 00000E84: 19:16:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+uniguitestegrafico.exe: 00000E84: 19:16:45 [TUniServerModule]:HTTP Server Started on Port: 8077
