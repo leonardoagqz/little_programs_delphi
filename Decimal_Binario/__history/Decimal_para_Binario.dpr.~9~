@@ -1,0 +1,55 @@
+program Decimal_para_Binario;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+resto : string;
+decimal ,y,x : Integer;
+
+begin
+write('Informe o número Decimal!: ');
+read (decimal);
+x := decimal;
+
+while x > 0 do
+  begin
+    if (x mod 2) = 0 then
+    begin
+    resto := '0'+decimal;
+    end
+    else
+    resto := '1'+decimal;
+    x := x / 2;
+  end;
+
+  write('A representação binária de', decimal, ' é ', resto);
+
+end.
+
+ {var
+    decimal,x,resto:integer;
+    binario,strresto,strquociente:string;
+  Begin
+    write ('Digite o valor decimal ');
+    read (decimal);
+    x:=decimal;
+    while (x>=2) do
+      begin
+        resto:=x mod 2;
+        //str(resto,strquociente);
+        binario:=strquociente+binario;
+        x:=x div 2;
+      end;
+    str(x,strquociente);
+    binario:=strquociente+binario;
+    writeln ('O valor decimal ',decimal,' em binário é ',binario);
+  End. }
+
+
+
+
