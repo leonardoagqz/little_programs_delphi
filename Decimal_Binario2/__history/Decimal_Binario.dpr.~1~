@@ -1,0 +1,33 @@
+program Decimal_Binario;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+binario : string;
+valorentrada, decimal : Integer;
+
+begin
+  write('Infome o Decimal! ');
+  read (valorentrada);
+  decimal := valorentrada;
+  binario :='' ;
+
+  while valorentrada > 0 do
+  begin
+    if (valorentrada mod 2) = 0 then
+    begin
+      binario := '0' + binario;
+    end
+    else
+    binario := '1' + binario;
+    valorentrada := valorentrada / 2;
+  end ;
+
+  write(decimal ,' = ', binario );
+
+end.
