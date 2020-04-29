@@ -1,0 +1,50 @@
+program Custo40Casas;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+salarioM, L, V_pedreiro, diametroC: Double ;
+A_retangulo, A_quadrado, A_triangulo, A_trapezio, A_circulo, A_total : Double;
+
+ const
+ Pi = 3.14;
+
+begin
+   write('Sálario Mínimo: ');
+   read (salarioM);
+   write('Valor (L): ');
+   readln (L);
+
+   V_pedreiro := (salarioM*0.1);
+   diametroC   := (L/2);
+   //write ;
+
+   A_retangulo := (L*4)*(L*2);
+   A_quadrado  := L*L;
+   A_triangulo := (L*L)/2;
+   A_trapezio  := (((L*2)+L)/2)*(L*0.7);
+   A_circulo   := (PI*((diametroC/2)*2));
+   A_total     := (A_retangulo+A_quadrado+A_triangulo+A_trapezio+A_circulo);
+
+   write ('Valor por metro quadrado: R$',V_pedreiro:2:2);
+   write ('Área de um quarto: ',A_quadrado,' m2');
+   write ('Área de um banheiro: ',A_circulo,' m2');
+   write ('Área de um escritório: ',A_triangulo,' m2');
+   write ('Área das salas: ',A_retangulo,' m2');
+   write ('Área da copa e cozinha: ',A_trapezio,' m2');
+   write ('Área de uma casa: ',A_total,' m2');
+   write ('Valor mão de obra de uma casa: R$',V_pedreiro*A_total:2:2);
+   write ('Valor mão de obra condomínio: R$',V_pedreiro*A_total*40:2:2);
+
+
+
+   Readln;
+   Readln;
+
+
+end.

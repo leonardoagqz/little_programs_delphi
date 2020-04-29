@@ -1,0 +1,34 @@
+program Custo40Casas;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+salarioM, L, V_pedreiro, diametroC: Double ;
+A_retangulo, A_quadrado, A_triangulo, A_trapezio, A_circulo, A_total : Double;
+
+begin
+   write('Sálario Mínimo: ');
+   read (salarioM);
+   write('Valor (L): ');
+   read (L);
+
+   V_pedreiro := (salarioM*0.1);
+   //write (Vpedreiro:2:2);
+
+   A_retangulo := (L*4)*(L*2);
+   A_quadrado  := L*L;
+   A_triangulo := (L*L)/2;
+   A_trapezio  := (((L*2)+L)/2)*(L*0.7);
+   diametroC   := (L/2);
+   A_circulo   := ()
+
+   Readln;
+   Readln;
+
+
+end.
