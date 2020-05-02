@@ -1,0 +1,102 @@
+program Escrever_numero_por_extenso;
+// Escrever número por extenso de 0 a 10.000
+
+uses
+  Winapi.Windows,
+  Winapi.Messages,
+  System.SysUtils,
+  System.Variants,
+  System.Classes,
+  Vcl.Graphics,
+  Vcl.Controls,
+  Vcl.Forms,
+  Vcl.Dialogs;
+
+var
+I: Integer;
+Num, u, d, c, m, x: string;
+valor : string;
+
+begin
+  write('Iforme um número de 0 a 10.000: ');
+  Readln(valor);
+  for I := 1 to Length(valor) do
+  begin
+    if I = 1 then
+    begin
+      case ( StrToInt(valor)) of
+        1 : write(' um ');
+        2 : write(' dois ');
+        3 : write(' tres ');
+        4 : write(' quatro ');
+        5 : write(' cinco ');
+        6 : write(' seis ');
+        7 : write(' sete ');
+        8 : write(' oito ');
+        9 : write(' nove ');
+     end;
+     end;
+     if I = 2 then
+    begin
+      case ( StrToInt(valor[1])) of
+        1 : write(' dez ');
+        2 : write(' vinte ');
+        3 : write(' trinta ');
+        4 : write(' quarenta ');
+        5 : write(' cinquenta ');
+        6 : write(' sessenta ');
+        7 : write(' setenta ');
+        8 : write(' oitenta ');
+        9 : write(' noventa ');
+     end;
+
+      case ( StrToInt(valor[2])) of
+        1 : write(' um ');
+        2 : write(' dois ');
+        3 : write(' tres ');
+        4 : write(' quatro ');
+        5 : write(' cinco ');
+        6 : write(' seis ');
+        7 : write(' sete ');
+        8 : write(' oito ');
+        9 : write(' nove ');
+      end;
+
+     end;
+
+      if I = 3 then
+    begin
+      case ( StrToInt(valor)) of
+        1 : write(' cem ');
+        2 : write(' duzentos ');
+        3 : write(' tresentos ');
+        4 : write(' quatrocentos ');
+        5 : write(' quinheitos ');
+        6 : write(' seiscentos ');
+        7 : write(' setecentos ');
+        8 : write(' oitocentos ');
+        9 : write(' novecentos ');
+     end;
+     end;
+
+
+
+
+  end;
+
+
+
+  //write (d,u);
+  {write (valor[2]);
+  write (valor[3]);
+  write (valor[4]);
+  write (valor[5]); }
+
+
+
+  Readln;
+  Readln;
+
+
+
+end.
