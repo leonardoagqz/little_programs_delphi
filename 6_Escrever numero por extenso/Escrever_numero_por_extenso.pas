@@ -30,9 +30,11 @@ begin
       Readln(valorstr);
     end;
 
-
     writeln('');
     valor := StrToInt(valorstr);
+
+    if (valor=0) then
+      writeln(' zero');
 
 
     m := (valor div 1000);
@@ -49,8 +51,13 @@ begin
     d := (valor mod 100) div 10;
     u := (valor mod 100) mod 10;
 
-    if (valor=0) then
-      write(' zero');
+
+
+    if ((m=10)and(c=0)and(d=0)and(u=0)) then
+      begin
+       writeln(' Dez mil ');
+      end;
+
 
     case ( m ) of
       1 : begin
@@ -62,10 +69,8 @@ begin
               if ((c<>0)and(d<>0)and(u<>0)) then
               begin
                 write('Mil');
-              end
-              else
-              if ((m=10)and(c=0)and(d=0)and(u=0)) then
-              write(' Dez mil ');
+              end;
+
           end;
 
           2 : write(' Dois mil ');
