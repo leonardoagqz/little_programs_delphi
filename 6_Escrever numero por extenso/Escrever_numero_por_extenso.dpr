@@ -66,12 +66,8 @@ begin
                 write(' Um Mil ');
               end
               else
-              if ((c<>0)and(d<>0)and(u<>0)) then
-              begin
-                write('Mil');
+              write('Mil');
               end;
-
-          end;
 
           2 : write(' Dois mil ');
           3 : write(' Três mil ');
@@ -85,20 +81,63 @@ begin
 
 
       case ( c ) of
-      1 : begin
-            if ((d=0)and(u=0)) then
-            write(' cem ')
-            else
-            write(' cento ');
-          end;
-          2 : write(' duzentos ');
-          3 : write(' trezentos ');
-          4 : write(' quatrocentos ');
-          5 : write(' quinhentos ');
-          6 : write(' seiscentos ');
-          7 : write(' setecentos ');
-          8 : write(' oitocentos ');
-          9 : write(' novecentos ');
+          1 : begin
+                if ((d=0)and(u=0)) then
+                writeln(' Cem ')
+                else
+                if m=0 then
+                write(' Cento ')
+                else
+                write(' cento ')
+              end;
+          2 : begin
+                if m = 0 then
+                write(' Duzentos ')
+                else
+                write(' duzentos ')
+               end;
+          3 : begin
+                if m=0 then
+                  write(' Trezentos ')
+                else
+                write(' trezentos ');
+              end;
+          4 : begin
+                if m= 0 then
+                write(' Quatrocentos ')
+                else
+                write(' quatrocentos ');
+              end;
+          5 : begin
+                if m= 0 then
+                write(' Quinhentos ')
+                else
+                write(' quinhentos ');
+              end;
+          6 : begin
+                if m= 0 then
+                write(' Seiscentos ')
+                else
+                write(' seiscentoss ');
+              end;
+          7 : begin
+                if m= 0 then
+                write(' Setecentos ')
+                else
+                write(' setecentos ');
+              end;
+          8 : begin
+                if m= 0 then
+                write(' Oitocentos ')
+                else
+                write(' oitocentos ');
+              end;
+          9 : begin
+                if m= 0 then
+                write(' Novecentos ')
+                else
+                write(' novecentos ');
+              end;
       end;
 
       if ((c<>0)and(d<>0)) then
@@ -107,26 +146,116 @@ begin
       case ( d ) of
       1 : begin
             case ( u ) of
-              0 : write(' dez ');
-              1 : write(' onze ');
-              2 : write(' doze ');
-              3 : write(' treze ');
-              4 : write(' quatorze ');
-              5 : write(' quinze ');
-              6 : write(' dezesseis ');
-              7 : write(' dezessete ');
-              8 : write(' dezoito ');
-              9 : write(' dezenove ');
+              0 : begin
+                    if (m=0)and (c=0) then
+                    write(' Dez ')
+                    else
+                    write(' dez ');
+                  end;
+              1 : begin
+                    if (m=0)and(c=0) then
+                    write(' Onze ')
+                    else
+                    write(' onze ');
+                  end;
+              2 : begin
+                    if (m=0)and(c=0) then
+                    write(' Doze ')
+                    else
+                    write(' doze ');
+                  end;
+              3 : begin
+                    if (m=0)and(c=0) then
+                    write(' Treze ')
+                    else
+                    write(' treze ');
+                  end;
+              4 : begin
+                    if (m=0)and(c=0) then
+                    write(' Quatorze ')
+                    else
+                    write(' quatorze ');
+                  end;
+              5 : begin
+                    if (m=0)and(c=0) then
+                    write(' Quinze ')
+                    else
+                    write(' quize ');
+                  end;
+              6 : begin
+                    if (m=0)and(c=0) then
+                    write(' Dezesseis ')
+                    else
+                    write(' treze ');
+                  end;
+              7 : begin
+                    if (m=0)and(c=0) then
+                    write(' Dezessete ')
+                    else
+                    write(' dezessete ');
+                  end;
+              8 : begin
+                    if (m=0)and(c=0) then
+                    write(' Dezoito ')
+                    else
+                    write(' dezoito ');
+                  end;
+              9 : begin
+                    if (m=0)and(c=0) then
+                    write(' Dezenove ')
+                    else
+                    write(' dezenove ');
+                  end;
             end;
           end;
-          2 : write(' vinte ');
-          3 : write(' trinta ');
-          4 : write(' quarenta ');
-          5 : write(' cinquenta ');
-          6 : write(' sessenta ');
-          7 : write(' setenta ');
-          8 : write(' oitenta ');
-          9 : write(' noventa ');
+          2 : begin
+                if (m=0)and(c=0) then
+                  write(' Vinte ')
+                else
+                write(' vinte ');
+              end;
+          3 : begin
+                if (m=0)and(c=0) then
+                  write(' Trinta ')
+                else
+                write(' trinta ');
+              end;
+          4 : begin
+                if (m=0)and(c=0) then
+                  write(' Quarenta ')
+                else
+                write(' quarenta ');
+              end;
+          5 : begin
+                if (m=0)and(c=0) then
+                  write(' Cinquenta ')
+                else
+                write(' cinquenta ');
+              end;
+          6 :begin
+                if (m=0)and(c=0) then
+                  write(' Sessenta ')
+                else
+                write(' sessenta ');
+              end;
+          7 : begin
+                if (m=0)and(c=0) then
+                  write(' Setenta ')
+                else
+                write(' setenta ');
+              end;
+          8 : begin
+                if (m=0)and(c=0) then
+                  write(' Oitenta ')
+                else
+                write(' oitenta ');
+              end;
+          9 : begin
+                if (m=0)and(c=0) then
+                  write(' Noventa ')
+                else
+                write(' noventa ');
+              end;
       end;
 
       if ( d <> 1 ) then
@@ -135,17 +264,62 @@ begin
         write('e');
 
         case ( u ) of
-          1 : writeln(' um ');
-          2 : writeln(' dois ');
-          3 : writeln(' três ');
-          4 : writeln(' quatro ');
-          5 : writeln(' cinco ');
-          6 : writeln(' seis ');
-          7 : writeln(' sete ');
-          8 : writeln(' oito ');
-          9 : writeln(' nove ');
+          1 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Um ')
+               else
+               write(' um ');
+             end;
+          2 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Dois ')
+               else
+               write(' dois ');
+             end;
+          3 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Três ')
+               else
+               write(' três ');
+             end;
+          4 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Quatro ')
+               else
+               write(' quatro ');
+             end;
+          5 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Cinco ')
+               else
+               write(' cinco ');
+             end;
+          6 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Seis ')
+               else
+               write(' seis ');
+             end;
+          7 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Sete ')
+               else
+               write(' sete ');
+             end;
+          8 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Oito ')
+               else
+               write(' oito ');
+             end;
+          9 :begin
+               if (m=0)and(c=0)and(d=0) then
+                 write(' Nove ')
+               else
+               write(' nove ');
+             end;
         end;
-
+         writeln('');
          write('.......................................');
       end;
       writeln('');
